@@ -97,7 +97,7 @@ nav{
 
 main{
     color: var(--whitePanna);
-    height: 100vh;
+    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
